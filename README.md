@@ -47,6 +47,6 @@ always worked together (possibly with other students in a larger group).
 average A1 grade across groups (negative if they are below average; positive if they are above average), and
 either “above”, “at”, or “below” to indicate whether they are above, at or below this average.
 
-# JDBC
+# JDBC(EmbeddedSQL)
 - Implemented Java Database Connectivity tools to run SQL queries and manipulate database records
 - All in EmbeddedSQL.java
