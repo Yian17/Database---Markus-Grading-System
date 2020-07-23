@@ -46,3 +46,6 @@ always worked together (possibly with other students in a larger group).
 10. Compute the grade out of 100 for each group on assignment A1, the di↵erence between their grade and the
 average A1 grade across groups (negative if they are below average; positive if they are above average), and
 either “above”, “at”, or “below” to indicate whether they are above, at or below this average.
+
+# JDBC
+• Implemented Java Database Connectivity tools to run SQL queries and manipulate database records
