@@ -48,4 +48,5 @@ average A1 grade across groups (negative if they are below average; positive if 
 either “above”, “at”, or “below” to indicate whether they are above, at or below this average.
 
 # JDBC
-• Implemented Java Database Connectivity tools to run SQL queries and manipulate database records
+- Implemented Java Database Connectivity tools to run SQL queries and manipulate database records
+- All in EmbeddedSQL.java
